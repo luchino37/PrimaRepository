@@ -2,7 +2,8 @@ package prova;
 
 public class Primo {
 
-	public static void main(String[] args) {
+	public static void main(String[] dia) {
+		
 		
 	}
 	
