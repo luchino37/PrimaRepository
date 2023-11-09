@@ -2,6 +2,8 @@ package prova;
 
 public class Primo {
 
-	main
+	public static void main(String[] args) {
+		
+	}
 	
 }
